@@ -1,0 +1,22 @@
+JDK pour le developpement de java : java developement kit
+JRE pour l execution du code : java runtime environment
+JVM java virtual machine 
+assmebly : lowest machine code
+
+
+a faire :
+intstallation jdk 17
+recherche : environmnent :variables
+path new browse: recherche jdk : dossier bin
+cmd : java --version (pour verificiation)
+creation fichier.java
+cmd: javac fichier.java
+          java Main
+
+
+AA1	Memorize the key concepts of object-oriented programming.	1
+AA2	Explain the fundamentals of the Java programming language	2
+: 	Understand the fundamentals of object-oriented programming.
+●	AA1.2: Identify the advantages of object-oriented programming over other approaches.
+●	AA2.1: Describe the basic characteristics of Java as a programming language.
+●	AA2.1: Explain how Java supports object-oriented programming concepts
